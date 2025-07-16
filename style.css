@@ -1,0 +1,161 @@
+.gradient-background {
+    background: linear-gradient(300deg, #813804, #6b8c42, #7bc67b, #ffffb5);
+    background-size: 240% 240%;
+    animation: gradient-animation 24s ease infinite;
+}
+
+@keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+ }
+ 
+ .nav1 {
+    background-color: #FFF287 ;
+ }
+
+ .font {
+    font-family: cursive; 
+    
+       
+ }
+ .fantasy {
+     font-family: fantasy;
+ }
+ .nav2 {
+     background-color: lightgoldenrodyellow;
+ }
+
+ .pics {
+    border-radius: 90px;
+ }
+ .btn-primary:hover {
+     background-color: greenyellow;
+     border-radius: 90px;
+     border-color: black;
+ }
+
+ .foot {
+     background: linear-gradient(300deg, #5a3921, #fcfcf7);
+     background-size: 120% 120%;
+     animation: gradient-animation 12s ease infinite;
+ }
+
+ @keyframes gradient-animation {
+     0% {
+         background-position: 0% 50%;
+     }
+
+     50% {
+         background-position: 100% 50%;
+     }
+
+     100% {
+         background-position: 0% 50%;
+     } }
+
+.know {
+    border-radius: 50%;
+    height: 200px;
+    height: 300px;
+    
+}
+
+.gradient-background1 {
+    background: linear-gradient(300deg, #ffce89, #fefefd);
+    background-size: 120% 120%;
+    animation: gradient-animation 12s ease infinite;
+}
+
+@keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    } }
+
+.gradient-backgroundproduce {
+    background: linear-gradient(300deg, #fefefd, #a76545, #ffa55d, #acc572);
+    background-size: 240% 240%;
+    animation: gradient-animation 24s ease infinite;
+}
+
+@keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    } }
+
+    .gradient-background2 {
+        background: linear-gradient(300deg,#a76545,#ffa55d,#ffdf88,#acc572);
+        background-size: 240% 240%;
+        animation: gradient-animation 24s ease infinite;
+      }
+      
+      @keyframes gradient-animation {
+        0% {
+          background-position: 0% 50%;
+        }
+        50% {
+          background-position: 100% 50%;
+        }
+        100% {
+          background-position: 0% 50%;
+        }
+      }
+
+          .gradient-background3 {
+              background: linear-gradient(300deg, #5f8600, #fefffa);
+              background-size: 120% 120%;
+              animation: gradient-animation 12s ease infinite;
+          }
+    
+          @keyframes gradient-animation {
+              0% {
+                  background-position: 0% 50%;
+              }
+    
+              50% {
+                  background-position: 100% 50%;
+              }
+    
+              100% {
+                  background-position: 0% 50%;
+              }     }
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+.profile-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.logos {
+    width: 200px;
+
+}
